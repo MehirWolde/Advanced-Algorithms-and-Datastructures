@@ -1,4 +1,5 @@
 Konkordans
+
 Om du redovisar labben senast den 17 september får du en labbleveranspoäng, som kan ge högre betyg på labbmomentet. Till labben hör teoriuppgifter som kan redovisas för en teoripoäng till tentan, och detta görs på övningen den 9 september (ingen annan redovisningsmöjlighet finns). Det är frivilligt att redovisa teoriuppgifterna, men för att klara av att göra labben bör du ha gjort dom. 
 
 Målen för labb 1 är att du ska
